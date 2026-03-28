@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Inf26.aternos.me",
+    "ip": "Inf26.aternos.me"
     "port": 19238,
     "version": "",
     "try-creative": false
